@@ -15,7 +15,7 @@ This repository showcases sample projects and work demonstrating my expertise in
 ### 1. RLHF Fine-Tuning
 - Designed and implemented **reinforcement learning from human feedback (RLHF)** pipelines to fine-tune transformer-based language models.
 - Reduced hallucination rates and improved reasoning consistency.
-- 
+  
 - ### 2. NLP Model Development
 - Built text classification models for sentiment and intent analysis using large-scale datasets.
 - Performed dataset preprocessing, model evaluation, and performance optimization.
